@@ -5,20 +5,12 @@
 ---
 
 # 🚀 HOW IT WORKS
-Each user will have a unique id
+Each user will have a unique id.
 **How to Send Files**
-Copy your unique ID and share it with the recipient
-Enter the recipient's unique ID
-Select the files you want to send
-Click the Share Files button
-Confirm the file transfer in the popup window
+>> Copy your unique ID and share it with the recipient > Enter the recipient's unique ID > Select the files you want to send > Click the Share Files button > Confirm the file transfer in the popup window
 
 **How to Receive Files**
-Share your unique ID with the sender
-Wait for the file transfer request popup
-Review the files being sent
-Click Receive to download the files
-Files will be saved to your downloads folder
+>> Share your unique ID with the sender > Wait for the file transfer request popup > Review the files being sent > Click Receive to download the files > Files will be saved to your downloads folder
 
 ---
 
