@@ -6,6 +6,7 @@
 
 # 🚀 HOW IT WORKS
 Each user will have a unique id.
+
 **How to Send Files**
 >> Copy your unique ID and share it with the recipient > Enter the recipient's unique ID > Select the files you want to send > Click the Share Files button > Confirm the file transfer in the popup window
 
