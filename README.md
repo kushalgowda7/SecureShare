@@ -23,7 +23,7 @@ Files will be saved to your downloads folder
 ---
 
 # Demo Video
-[![Watch the video](https://github.com/user-attachments/assets/b5740ed3-c57d-4822-a97d-67c3274136c2)
+![Watch the video](https://github.com/user-attachments/assets/b5740ed3-c57d-4822-a97d-67c3274136c2)
 ---
 
 ## 🔥 WHY SECURESHARE?
