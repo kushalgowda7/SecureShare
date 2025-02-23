@@ -5,11 +5,25 @@
 ---
 
 # 🚀 HOW IT WORKS
-**Each user will have a unique id**
-1️⃣ **User A** selects the files and enters the unique id of the receiver.
-2️⃣ **User B** gets the files from the user A & can download the files.  
-3️⃣ File is decrypted **only on the recipient’s device** 
+Each user will have a unique id
+**How to Send Files**
+Copy your unique ID and share it with the recipient
+Enter the recipient's unique ID
+Select the files you want to send
+Click the Share Files button
+Confirm the file transfer in the popup window
 
+**How to Receive Files**
+Share your unique ID with the sender
+Wait for the file transfer request popup
+Review the files being sent
+Click Receive to download the files
+Files will be saved to your downloads folder
+
+---
+
+# Demo Video
+[![Watch the video](https://github.com/user-attachments/assets/b5740ed3-c57d-4822-a97d-67c3274136c2)
 ---
 
 ## 🔥 WHY SECURESHARE?
