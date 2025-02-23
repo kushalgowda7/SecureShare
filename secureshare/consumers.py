@@ -109,9 +109,6 @@ class FileTransferConsumer(AsyncWebsocketConsumer):
             # to original byte-encoded string
             decrypted_content = fernet.decrypt(encrypted_file_content.encode()).decode()
 
-            # NOTE: FOR DEVELOPMENT ONLY !!!
-            # print("Decrypted: ", decrypted_content[:10])
-
             await self.send(
                 text_data=json.dumps(
                     {
