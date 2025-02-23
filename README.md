@@ -5,9 +5,10 @@
 ---
 
 # 🚀 HOW IT WORKS
-1️⃣ **User A** selects a file and shares a unique transfer link.  
-2️⃣ **User B** enters the link to download the securely encrypted file.  
-3️⃣ File is decrypted **only on the recipient’s device** – full privacy ensured!  
+**Each user will have a unique id**
+1️⃣ **User A** selects the files and enters the unique id of the receiver.
+2️⃣ **User B** gets the files from the user A & can download the files.  
+3️⃣ File is decrypted **only on the recipient’s device** 
 
 ---
 
