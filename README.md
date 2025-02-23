@@ -67,7 +67,6 @@ python manage.py runserver
 # 🔒 SECURITY FEATURES
 🔹 **AES-256 Encryption** – Industry-standard security for file transfers.  
 🔹 **No Data Logging** – Files are never stored on a central server.  
-🔹 **Temporary Transfer Links** – Auto-expiring links for added security.  
 
 ---
 
